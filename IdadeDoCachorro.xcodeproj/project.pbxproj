@@ -13,6 +13,8 @@
 		21472E1C269F3240009B4BC8 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 21472E1A269F3240009B4BC8 /* Main.storyboard */; };
 		21472E1E269F3261009B4BC8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 21472E1D269F3261009B4BC8 /* Assets.xcassets */; };
 		21472E21269F3261009B4BC8 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 21472E1F269F3261009B4BC8 /* LaunchScreen.storyboard */; };
+		21472E2A269F3334009B4BC8 /* cachorro.png in Resources */ = {isa = PBXBuildFile; fileRef = 21472E29269F3334009B4BC8 /* cachorro.png */; };
+		21472E3426A07F78009B4BC8 /* bull-trans.png in Resources */ = {isa = PBXBuildFile; fileRef = 21472E3326A07F78009B4BC8 /* bull-trans.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,8 @@
 		21472E1D269F3261009B4BC8 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		21472E20269F3261009B4BC8 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		21472E22269F3261009B4BC8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		21472E29269F3334009B4BC8 /* cachorro.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = cachorro.png; sourceTree = "<group>"; };
+		21472E3326A07F78009B4BC8 /* bull-trans.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "bull-trans.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +60,8 @@
 		21472E13269F3240009B4BC8 /* IdadeDoCachorro */ = {
 			isa = PBXGroup;
 			children = (
+				21472E3326A07F78009B4BC8 /* bull-trans.png */,
+				21472E29269F3334009B4BC8 /* cachorro.png */,
 				21472E14269F3240009B4BC8 /* AppDelegate.swift */,
 				21472E16269F3240009B4BC8 /* SceneDelegate.swift */,
 				21472E18269F3240009B4BC8 /* ViewController.swift */,
@@ -124,6 +130,8 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				21472E3426A07F78009B4BC8 /* bull-trans.png in Resources */,
+				21472E2A269F3334009B4BC8 /* cachorro.png in Resources */,
 				21472E21269F3261009B4BC8 /* LaunchScreen.storyboard in Resources */,
 				21472E1E269F3261009B4BC8 /* Assets.xcassets in Resources */,
 				21472E1C269F3240009B4BC8 /* Main.storyboard in Resources */,
